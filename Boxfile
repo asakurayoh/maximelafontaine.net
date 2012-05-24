@@ -1,4 +1,0 @@
-web1:
-  name: Maximelafontaine.net
-  document_root: web
-  index_list: [index.html,index.php]
